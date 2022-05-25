@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,27&height=350&section=header&text=Welcome&fontSize=90&desc=%20This%20is%20Saerom-Park's%20Github&animation=fadeIn&descSize=20&FontSize=40&descAlign=70&descAlignY=70)
 
 ## Hi there 👋
-Hello, I'm Saerom Park, dreaming of becoming a Data Scientist!
+Hello, I'm Saerom Park, dreaming of becoming a AI Reseacher!
 
 I graduated from Kookmin University in February, 2022, with **a major in Bigdata Anlytics Business Statistics** as my main major, and **a minor in Computer Science**.
 
