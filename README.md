@@ -29,8 +29,6 @@ I graduated from Kookmin University in February, 2022, with **a major in Bigdata
 
 ## GitHub Stats
 ![Saerom-Park's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saerom-Park&show_icons=true&theme=swift)
-
-[![](https://visitcount.itsvg.in/api?id=Saerom-Park&icon=0&color=0)](https://visitcount.itsvg.in)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Saerom-Park%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
 <!--
