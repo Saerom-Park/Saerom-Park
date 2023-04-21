@@ -8,8 +8,8 @@ I graduated from Kookmin University in February, 2022, with **a major in Bigdata
 ## Contact
 [![Mail](https://img.shields.io/badge/saerom2000@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](saerom2000@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Saerom_Park-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/saerom-park-134359194/)
+[![Portfolio](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://rommie.notion.site/)
 <!--
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/rommie/Saerom-Park-78bb71fc865d4804ada1458cd6389732)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)]( https://velog.io/@rommie)
 -->
 
